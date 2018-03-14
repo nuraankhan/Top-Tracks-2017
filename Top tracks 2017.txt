@@ -1,0 +1,28 @@
+Having gone through the dataset of the top tracks for 2017, there were 
+column names such as 'acousticness', 'instrumentalness', 'speechiness',
+'energy', 'tempo', 'danceability'.
+i found that those were song features and all had different values for 
+each.
+what i was interested in is finding out how a song is chosen to be on a "Top list"
+
+to start my quest of data analysis i wanted to know if there were any artists
+who had more than one song of theirs on the top tracks list.
+using qlikview software i found that artists: Ed Sheeran and The Chainsmokers
+had each 4 songs of theirs on the list.
+"what made their songs more popular than others?"
+was it crazy fandom  for the artist or was it something/ some song feauture that the audience from all
+over favor.
+next i grouped the different song features: 1) Acousticness, Instrumentalness and Speechiness
+					    2) Danceablility, Tempo and Energy
+there was also Valence that i wanted to check out for each song. Valence is the positive message conveyed by a track. 
+the higher the valence, the more joy, happy the songs message is and vice versa.
+checking group 1 song features, i looked for the artists songs(Ed Sheeran and The ChainSmokers), i was looking if their songs would
+appear with high levels in those song features.
+in group 2 song features: Danceability, energy and tempo. 2 of Ed sheeran and 2 of the chainsmokers songs were in the top 10 for energy levels.
+
+from this i concluded that most songs that make the list for top tracks is based on the energy the track gives.
+Energetic songs are fast paced and induces dancing.
+dancing is something everyone enjoys(even those with 2 left feet or stiff as wood).
+energetic music literally "energizes" people and keeps them going when theyre tired or need a pick me up.
+
+
